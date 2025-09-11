@@ -127,43 +127,16 @@ We welcome contributions!
 
 ## 📝 License
 
-**Important:** The repository does **not** currently include a `LICENSE` file. The previous README incorrectly stated the project used the MIT License.
-
-* **Current status:** No license specified — *All rights reserved by default.*
-
-> ⚠️ Unless you add a `LICENSE` file, others do **not** have permission to reuse, modify, or redistribute your code under open-source terms.
-
-### How to add a license
-
-**Via GitHub (web UI):**
-
-1. On the repository page click `Add file` → `Create new file`.
-2. Name the file `LICENSE`.
-3. Paste the chosen license text (examples below) and commit.
-
-**Locally:**
-
-```bash
-# create LICENSE, add license text, then:
-git add LICENSE
-git commit -m "Add LICENSE"
-git push
-```
-
-### Common license templates (pick one)
-
-* **MIT** — permissive, simple. Great for most open-source projects.
-* **Apache-2.0** — permissive + explicit patent grant.
-* **GPL-3.0** — copyleft: derivatives must also be GPL-licensed.
-* **Unlicense / All rights reserved** — effectively no open-source permissions.
-
-If you tell me which license you want, I can add the exact LICENSE file content and update this README to reference it.
+Currently, no license has been specified for this project.
 
 ---
 
 ## 👨‍💻 Author
 
-**Arun Kushhhh**
+**Rhae Shane**
+
+* GitHub: [@Rhae-Shane](https://github.com/Rhae-Shane)
+* Project Link: [https://github.com/Rhae-Shane/CalcAi](https://github.com/Rhae-Shane/CalcAi)
 
 ---
 
